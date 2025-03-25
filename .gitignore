@@ -7,3 +7,6 @@
 
 build/clear
 android/.settings
+android/.project
+example/android/.settings
+example/android/.project
