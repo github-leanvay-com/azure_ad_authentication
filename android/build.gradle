@@ -32,7 +32,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace="com.fsconceicao.azure_ad_authentication"
+    namespace = "com.fsconceicao.azure_ad_authentication"
     compileSdkVersion 33
 
     compileOptions {
